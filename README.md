@@ -1,3 +1,3 @@
 simple_list
 ===========
-Simply showing the syntax for variabl linked list operations.
+Simply showing the syntax for various linked list operations.
